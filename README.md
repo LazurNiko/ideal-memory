@@ -1,2 +1,2 @@
-- [Preview](https://your-name.github.io/your-repo/)
-- [Pull Request](https://github.com/your-name/your-repo/pull/1/files)
+- [Preview](https://your-name.github.io/ideal-memory/)
+- [Pull Request](https://github.com/LazurNiko/ideal-memory/pull/1/files)
